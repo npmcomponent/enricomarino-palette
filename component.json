@@ -1,0 +1,11 @@
+{
+  "name": "palette",
+  "repo": "onirame/palette",
+  "description": "Color set component",
+  "version": "0.0.1",
+  "keywords": ["color"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": ["index.js"]
+}
