@@ -4,7 +4,7 @@ Color set component
 
 ## Installation
 
-    $ component install onirame/palette
+    $ component install enricomarino/palette
 
 ## License
 
