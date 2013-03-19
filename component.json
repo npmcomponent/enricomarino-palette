@@ -1,9 +1,9 @@
 {
   "name": "palette",
-  "repo": "onirame/palette",
+  "repo": "enricomarino/palette",
   "description": "Color set component",
   "version": "0.0.1",
-  "keywords": ["color"],
+  "keywords": ["colors"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
