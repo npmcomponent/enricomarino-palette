@@ -1,0 +1,10 @@
+{
+  "name": "enricomarino-palette",
+  "description": "Color set component",
+  "version": "0.0.1",
+  "keywords": [
+    "colors"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
